@@ -1,0 +1,4 @@
+Role,Permissions
+Guest,Can view landing page and public content.
+User,"Can create an account, manage profile, and [Core Action]."
+Admin,"Can manage users, view analytics, and moderate content."
