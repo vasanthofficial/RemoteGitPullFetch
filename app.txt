@@ -1,2 +1,2 @@
 This is app requirement file : Python,Java 
-
+Git pull will Fetch & Merge together. 
